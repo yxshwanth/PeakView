@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PeakView-Frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/PeakView-Frontend/static/js/main.dcf02870.js",
+    "static/js/239.b7bb6de9.chunk.js": "/PeakView-Frontend/static/js/239.b7bb6de9.chunk.js",
+    "static/js/213.2be42320.chunk.js": "/PeakView-Frontend/static/js/213.2be42320.chunk.js",
+    "static/js/732.a9b665bd.chunk.js": "/PeakView-Frontend/static/js/732.a9b665bd.chunk.js",
+    "static/js/453.6c8eca29.chunk.js": "/PeakView-Frontend/static/js/453.6c8eca29.chunk.js",
+    "static/media/background.jpg": "/PeakView-Frontend/static/media/background.931adee6dd02c4f4e293.jpg",
+    "index.html": "/PeakView-Frontend/index.html",
+    "main.e6c13ad2.css.map": "/PeakView-Frontend/static/css/main.e6c13ad2.css.map",
+    "main.dcf02870.js.map": "/PeakView-Frontend/static/js/main.dcf02870.js.map",
+    "239.b7bb6de9.chunk.js.map": "/PeakView-Frontend/static/js/239.b7bb6de9.chunk.js.map",
+    "213.2be42320.chunk.js.map": "/PeakView-Frontend/static/js/213.2be42320.chunk.js.map",
+    "732.a9b665bd.chunk.js.map": "/PeakView-Frontend/static/js/732.a9b665bd.chunk.js.map",
+    "453.6c8eca29.chunk.js.map": "/PeakView-Frontend/static/js/453.6c8eca29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dcf02870.js"
+  ]
+}
